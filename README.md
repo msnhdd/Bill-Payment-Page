@@ -13,5 +13,5 @@ Installation Guide:
 2. To connect to the actual payment gateway, you need to edit the redirect_to_payment_gateway function.
 
 # To test the plugin's functionality, you can use these sample IDs:
-Bill ID: 1023456789
+Bill ID: 1023456789<br>
 Payment ID: 8765432
