@@ -1,4 +1,4 @@
-# Bill Payment Page
+# Bill Payment Plugin
 With this plugin, you can add a Persian-language bill payment system to your WordPress website.
 Installation Guide:
 1. Save the code file in this path: "wp-content/plugins/bill-payment-system/bill-payment-system.php"
