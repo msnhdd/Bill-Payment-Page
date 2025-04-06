@@ -382,6 +382,8 @@ run_bill_payment_system();
 function bill_payment_system_styles() {
     ?>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap');
+        * { font-family: 'Vazirmatn'};
         .bill-payment-form-container,
         .bill-confirmation-container,
         .bill-result-container {
